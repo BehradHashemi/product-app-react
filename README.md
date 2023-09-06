@@ -1,6 +1,6 @@
 # Products Page
 
-### This page is based on `React.js` and `Vite.js`
+This page is based on `React.js` and `Vite.js`
 
 ## Programming languages used
 
@@ -15,13 +15,13 @@
 
 ## Installation
 
-### setp-1
+setp-1 :
 ```
 
 npm install
 
 ```
-### step-2 :
+step-2 :
 ```
 
 npm run dev
@@ -31,7 +31,7 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 ## Online preview 
 
-### Deoploy On [Vercel](https://fronckproducts.vercel.com/)
+Deoploy On [Vercel](https://fronckproducts.vercel.com/)
 
 ## Social
 
