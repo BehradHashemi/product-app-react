@@ -1,0 +1,85 @@
+.mainContainer {
+  padding: 20px;
+  background-color: #fff;
+  margin: 0 0 100px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  box-shadow: 0px 5px 24px rgba(149, 157, 165, 0.4);
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding: 15px 180px;
+}
+
+.productLink {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  border-bottom: 3px solid #000000;
+  border-radius: 2px;
+  padding: 0 1px;
+  transition: all 0.2s ease;
+}
+
+.productLink:hover {
+  color: #00000080;
+  border-bottom-color: #00000080;
+}
+
+.iconContainer {
+  position: relative;
+}
+
+.iconContainer img {
+  width: 40px;
+  color: #000000;
+}
+
+.iconContainer span {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #000000;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  font-size: 0.75rem;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+}
+
+@media (max-width: 1200px) {
+  .container {
+    padding: 15px 80px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 15px 40px;
+  }
+}
+
+@media (max-width: 555px) {
+  .container {
+    padding: 15px 20px;
+  }
+}
+
+@media (max-width: 420px) {
+  h2 {
+    font-size: 1.3rem;
+  }
+}
