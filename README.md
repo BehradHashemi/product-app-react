@@ -31,7 +31,7 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 ## Online preview 
 
-Deoploy On [Vercel](https://fronckproducts.vercel.com/)
+Deoploy On [Vercel](https://fronckproducts.vercel.app/)
 
 ## Social
 
@@ -43,7 +43,6 @@ Deoploy On [Vercel](https://fronckproducts.vercel.com/)
 ## Notes:
 
 ```
-
 CopyRight
 
 ```
